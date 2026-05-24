@@ -1,0 +1,22 @@
+{
+  "service": "fxwatch",
+  "version": "0.1.0",
+  "computed_at": 1779626394,
+  "pairs": [
+    "EUR/USD",
+    "GBP/USD",
+    "USD/JPY",
+    "AUD/USD",
+    "USD/CAD",
+    "USD/CHF",
+    "NZD/USD",
+    "EUR/GBP",
+    "EUR/JPY",
+    "GBP/JPY",
+    "XAU/USD"
+  ],
+  "timeframes": [
+    "1day",
+    "4h"
+  ]
+}
