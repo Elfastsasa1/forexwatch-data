@@ -20,7 +20,12 @@
     "strength_note": "GBP+3.8 vs JPY-3.2 = +7.0",
     "ts": 1779628075,
     "ts_iso": "2026-05-24T13:07:55Z",
-    "status": "OPEN"
+    "status": "CLOSED",
+    "outcome": "LOSS",
+    "exit_ts": 1779678000,
+    "exit_price": 213.45391,
+    "pnl_r": -1.0,
+    "bars_held": 4
   },
   {
     "pair": "USD/CHF",
