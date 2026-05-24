@@ -1,0 +1,71 @@
+[
+  {
+    "pair": "GBP/JPY",
+    "direction": "LONG",
+    "entry": 213.86623,
+    "sl": 213.45391,
+    "tp": 214.48471,
+    "atr": 0.20616,
+    "rr": 1.5,
+    "regime": "rich_multi",
+    "decay": 0.5461,
+    "h_2_hurst": 0.4141,
+    "session": "London-NY overlap",
+    "score": 91.1,
+    "score_breakdown": {
+      "regime": 50,
+      "strength": 21.1,
+      "session": 20
+    },
+    "strength_note": "GBP+3.8 vs JPY-3.2 = +7.0",
+    "ts": 1779628075,
+    "ts_iso": "2026-05-24T13:07:55Z",
+    "status": "OPEN"
+  },
+  {
+    "pair": "USD/CHF",
+    "direction": "SHORT",
+    "entry": 0.78475,
+    "sl": 0.7867,
+    "tp": 0.78183,
+    "atr": 0.00097,
+    "rr": 1.5,
+    "regime": "multi",
+    "decay": 0.3756,
+    "h_2_hurst": 0.4631,
+    "session": "London-NY overlap",
+    "score": 80,
+    "score_breakdown": {
+      "regime": 30,
+      "strength": 30,
+      "session": 20
+    },
+    "strength_note": "USD-1.5 vs CHF+10.0 = -11.5",
+    "ts": 1779628075,
+    "ts_iso": "2026-05-24T13:07:55Z",
+    "status": "OPEN"
+  },
+  {
+    "pair": "GBP/USD",
+    "direction": "LONG",
+    "entry": 1.34339,
+    "sl": 1.34029,
+    "tp": 1.34803,
+    "atr": 0.00155,
+    "rr": 1.5,
+    "regime": "multi",
+    "decay": 0.334,
+    "h_2_hurst": 0.4482,
+    "session": "London-NY overlap",
+    "score": 65.8,
+    "score_breakdown": {
+      "regime": 30,
+      "strength": 15.8,
+      "session": 20
+    },
+    "strength_note": "GBP+3.8 vs USD-1.5 = +5.3",
+    "ts": 1779628075,
+    "ts_iso": "2026-05-24T13:07:55Z",
+    "status": "OPEN"
+  }
+]
