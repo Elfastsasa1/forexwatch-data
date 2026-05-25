@@ -48,7 +48,12 @@
     "strength_note": "USD-1.5 vs CHF+10.0 = -11.5",
     "ts": 1779628075,
     "ts_iso": "2026-05-24T13:07:55Z",
-    "status": "OPEN"
+    "status": "CLOSED",
+    "outcome": "WIN",
+    "exit_ts": 1779692400,
+    "exit_price": 0.78183,
+    "pnl_r": 1.497,
+    "bars_held": 5
   },
   {
     "pair": "GBP/USD",
@@ -71,7 +76,12 @@
     "strength_note": "GBP+3.8 vs USD-1.5 = +5.3",
     "ts": 1779628075,
     "ts_iso": "2026-05-24T13:07:55Z",
-    "status": "OPEN"
+    "status": "CLOSED",
+    "outcome": "WIN",
+    "exit_ts": 1779692400,
+    "exit_price": 1.34803,
+    "pnl_r": 1.497,
+    "bars_held": 5
   },
   {
     "pair": "XAU/USD",
@@ -94,6 +104,11 @@
     "strength_note": "metal (no FX strength)",
     "ts": 1779629402,
     "ts_iso": "2026-05-24T13:30:02Z",
-    "status": "OPEN"
+    "status": "CLOSED",
+    "outcome": "WIN",
+    "exit_ts": 1779692400,
+    "exit_price": 4532.65913,
+    "pnl_r": 1.5,
+    "bars_held": 5
   }
 ]
