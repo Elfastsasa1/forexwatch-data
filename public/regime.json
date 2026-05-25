@@ -1,9 +1,9 @@
 {
-  "computed_at": 1779735602,
+  "computed_at": 1779735902,
   "pairs": {
     "EUR/USD": {
       "1day": {
-        "computed_at": 1779733802,
+        "computed_at": 1779735602,
         "bars_used": 600,
         "h_q": [
           0.605776,
@@ -23,7 +23,7 @@
         "classification": "multi"
       },
       "4h": {
-        "computed_at": 1779733802,
+        "computed_at": 1779735602,
         "bars_used": 600,
         "h_q": [
           0.689513,
@@ -45,7 +45,7 @@
     },
     "GBP/USD": {
       "1day": {
-        "computed_at": 1779733803,
+        "computed_at": 1779735602,
         "bars_used": 600,
         "h_q": [
           0.596118,
@@ -65,7 +65,7 @@
         "classification": "mono"
       },
       "4h": {
-        "computed_at": 1779733803,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.703097,
@@ -87,7 +87,7 @@
     },
     "USD/JPY": {
       "1day": {
-        "computed_at": 1779733803,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.61155,
@@ -107,7 +107,7 @@
         "classification": "mono"
       },
       "4h": {
-        "computed_at": 1779733803,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.823308,
@@ -129,7 +129,7 @@
     },
     "AUD/USD": {
       "1day": {
-        "computed_at": 1779733803,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.490863,
@@ -149,7 +149,7 @@
         "classification": "multi"
       },
       "4h": {
-        "computed_at": 1779733804,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.640258,
@@ -171,7 +171,7 @@
     },
     "USD/CAD": {
       "1day": {
-        "computed_at": 1779733804,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.707617,
@@ -191,7 +191,7 @@
         "classification": "multi"
       },
       "4h": {
-        "computed_at": 1779733804,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.497569,
@@ -213,7 +213,7 @@
     },
     "USD/CHF": {
       "1day": {
-        "computed_at": 1779733804,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.487029,
@@ -233,7 +233,7 @@
         "classification": "mono"
       },
       "4h": {
-        "computed_at": 1779733804,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.742074,
@@ -255,7 +255,7 @@
     },
     "NZD/USD": {
       "1day": {
-        "computed_at": 1779733804,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.529284,
@@ -275,7 +275,7 @@
         "classification": "mono"
       },
       "4h": {
-        "computed_at": 1779733804,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.636051,
@@ -297,7 +297,7 @@
     },
     "EUR/GBP": {
       "1day": {
-        "computed_at": 1779733804,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.550649,
@@ -317,7 +317,7 @@
         "classification": "mono"
       },
       "4h": {
-        "computed_at": 1779733805,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.736536,
@@ -339,7 +339,7 @@
     },
     "EUR/JPY": {
       "1day": {
-        "computed_at": 1779733805,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.552515,
@@ -359,7 +359,7 @@
         "classification": "mono"
       },
       "4h": {
-        "computed_at": 1779733805,
+        "computed_at": 1779735603,
         "bars_used": 600,
         "h_q": [
           0.687136,
@@ -381,7 +381,7 @@
     },
     "GBP/JPY": {
       "1day": {
-        "computed_at": 1779733805,
+        "computed_at": 1779735604,
         "bars_used": 600,
         "h_q": [
           0.559119,
@@ -401,7 +401,7 @@
         "classification": "mono"
       },
       "4h": {
-        "computed_at": 1779733805,
+        "computed_at": 1779735604,
         "bars_used": 600,
         "h_q": [
           0.75818,
@@ -423,7 +423,7 @@
     },
     "XAU/USD": {
       "1day": {
-        "computed_at": 1779733805,
+        "computed_at": 1779735604,
         "bars_used": 600,
         "h_q": [
           0.650558,
@@ -443,7 +443,7 @@
         "classification": "multi"
       },
       "4h": {
-        "computed_at": 1779733805,
+        "computed_at": 1779735604,
         "bars_used": 600,
         "h_q": [
           0.687738,
