@@ -110,5 +110,28 @@
     "exit_price": 4532.65913,
     "pnl_r": 1.5,
     "bars_held": 5
+  },
+  {
+    "pair": "EUR/GBP",
+    "direction": "LONG",
+    "entry": 0.86627,
+    "sl": 0.86471,
+    "tp": 0.86862,
+    "atr": 0.00078,
+    "rr": 1.5,
+    "regime": "multi",
+    "decay": 0.3582,
+    "h_2_hurst": 0.4456,
+    "session": "London-NY overlap",
+    "score": 69.4,
+    "score_breakdown": {
+      "regime": 30,
+      "strength": 19.4,
+      "session": 20
+    },
+    "strength_note": "EUR+5.5 vs GBP-1.0 = +6.5",
+    "ts": 1779893737,
+    "ts_iso": "2026-05-27T14:55:37Z",
+    "status": "OPEN"
   }
 ]
