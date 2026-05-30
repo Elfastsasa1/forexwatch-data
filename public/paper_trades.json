@@ -132,6 +132,11 @@
     "strength_note": "EUR+5.5 vs GBP-1.0 = +6.5",
     "ts": 1779893737,
     "ts_iso": "2026-05-27T14:55:37Z",
-    "status": "OPEN"
+    "status": "CLOSED",
+    "outcome": "TIMEOUT",
+    "exit_ts": 1780167600,
+    "exit_price": 0.86642,
+    "pnl_r": 0.096,
+    "bars_held": 20
   }
 ]
