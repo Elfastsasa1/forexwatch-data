@@ -1,7 +1,7 @@
 {
   "service": "fxwatch",
   "version": "0.1.0",
-  "computed_at": 1780218301,
+  "computed_at": 1780218601,
   "pairs": [
     "EUR/USD",
     "GBP/USD",
