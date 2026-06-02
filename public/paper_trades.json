@@ -138,5 +138,51 @@
     "exit_price": 0.86642,
     "pnl_r": 0.096,
     "bars_held": 20
+  },
+  {
+    "pair": "USD/JPY",
+    "direction": "LONG",
+    "entry": 159.74814,
+    "sl": 159.53629,
+    "tp": 160.06592,
+    "atr": 0.10593,
+    "rr": 1.5,
+    "regime": "rich_multi",
+    "decay": 0.4855,
+    "h_2_hurst": 0.3535,
+    "session": "London-NY overlap",
+    "score": 94.2,
+    "score_breakdown": {
+      "regime": 50,
+      "strength": 24.2,
+      "session": 20
+    },
+    "strength_note": "USD+2.5 vs JPY-5.6 = +8.1",
+    "ts": 1780409225,
+    "ts_iso": "2026-06-02T14:07:05Z",
+    "status": "OPEN"
+  },
+  {
+    "pair": "EUR/GBP",
+    "direction": "SHORT",
+    "entry": 0.86458,
+    "sl": 0.86628,
+    "tp": 0.86203,
+    "atr": 0.00085,
+    "rr": 1.5,
+    "regime": "rich_multi",
+    "decay": 0.4252,
+    "h_2_hurst": 0.4381,
+    "session": "London-NY overlap",
+    "score": 86.3,
+    "score_breakdown": {
+      "regime": 50,
+      "strength": 16.3,
+      "session": 20
+    },
+    "strength_note": "EUR+0.2 vs GBP+5.6 = -5.4",
+    "ts": 1780409225,
+    "ts_iso": "2026-06-02T14:07:05Z",
+    "status": "OPEN"
   }
 ]
