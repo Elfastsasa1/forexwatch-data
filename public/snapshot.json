@@ -2,7 +2,7 @@
   "meta": {
     "service": "fxwatch",
     "version": "0.1.0",
-    "computed_at": 1780405501,
+    "computed_at": 1780405801,
     "pairs": [
       "EUR/USD",
       "GBP/USD",
@@ -22,7 +22,7 @@
     ]
   },
   "regime": {
-    "computed_at": 1780405501,
+    "computed_at": 1780405801,
     "pairs": {
       "EUR/USD": {
         "1day": {
@@ -489,7 +489,7 @@
     }
   },
   "currency_strength": {
-    "computed_at": 1780403701,
+    "computed_at": 1780405502,
     "timeframe": "4h",
     "lookback_bars": 24,
     "raw_pct": {
