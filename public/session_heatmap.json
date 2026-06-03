@@ -1,5 +1,5 @@
 {
-  "computed_at": 1780439401,
+  "computed_at": 1780525802,
   "sessions": {
     "Sydney": [
       21,
@@ -23,7 +23,7 @@
       "pair": "EUR/USD",
       "buckets": {
         "03": {
-          "avg_range_pct": 0.2357,
+          "avg_range_pct": 0.2349,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -31,7 +31,7 @@
           ]
         },
         "07": {
-          "avg_range_pct": 0.1604,
+          "avg_range_pct": 0.1567,
           "n_samples": 100,
           "sessions": [
             "Tokyo",
@@ -39,14 +39,14 @@
           ]
         },
         "11": {
-          "avg_range_pct": 0.1382,
+          "avg_range_pct": 0.1374,
           "n_samples": 100,
           "sessions": [
             "London"
           ]
         },
         "15": {
-          "avg_range_pct": 0.1951,
+          "avg_range_pct": 0.1954,
           "n_samples": 100,
           "sessions": [
             "London",
@@ -54,14 +54,14 @@
           ]
         },
         "19": {
-          "avg_range_pct": 0.2155,
+          "avg_range_pct": 0.2141,
           "n_samples": 100,
           "sessions": [
             "NewYork"
           ]
         },
         "23": {
-          "avg_range_pct": 0.2581,
+          "avg_range_pct": 0.2567,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -75,7 +75,7 @@
       "pair": "GBP/USD",
       "buckets": {
         "03": {
-          "avg_range_pct": 0.2708,
+          "avg_range_pct": 0.2698,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -83,7 +83,7 @@
           ]
         },
         "07": {
-          "avg_range_pct": 0.1702,
+          "avg_range_pct": 0.1674,
           "n_samples": 100,
           "sessions": [
             "Tokyo",
@@ -91,14 +91,14 @@
           ]
         },
         "11": {
-          "avg_range_pct": 0.1459,
+          "avg_range_pct": 0.1452,
           "n_samples": 100,
           "sessions": [
             "London"
           ]
         },
         "15": {
-          "avg_range_pct": 0.2092,
+          "avg_range_pct": 0.2096,
           "n_samples": 100,
           "sessions": [
             "London",
@@ -106,14 +106,14 @@
           ]
         },
         "19": {
-          "avg_range_pct": 0.2295,
+          "avg_range_pct": 0.2288,
           "n_samples": 100,
           "sessions": [
             "NewYork"
           ]
         },
         "23": {
-          "avg_range_pct": 0.3132,
+          "avg_range_pct": 0.3113,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -127,7 +127,7 @@
       "pair": "USD/JPY",
       "buckets": {
         "03": {
-          "avg_range_pct": 0.2093,
+          "avg_range_pct": 0.2072,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -135,7 +135,7 @@
           ]
         },
         "07": {
-          "avg_range_pct": 0.17,
+          "avg_range_pct": 0.166,
           "n_samples": 100,
           "sessions": [
             "Tokyo",
@@ -143,14 +143,14 @@
           ]
         },
         "11": {
-          "avg_range_pct": 0.1827,
+          "avg_range_pct": 0.1804,
           "n_samples": 100,
           "sessions": [
             "London"
           ]
         },
         "15": {
-          "avg_range_pct": 0.189,
+          "avg_range_pct": 0.1903,
           "n_samples": 100,
           "sessions": [
             "London",
@@ -158,14 +158,14 @@
           ]
         },
         "19": {
-          "avg_range_pct": 0.1988,
+          "avg_range_pct": 0.1973,
           "n_samples": 100,
           "sessions": [
             "NewYork"
           ]
         },
         "23": {
-          "avg_range_pct": 0.2256,
+          "avg_range_pct": 0.2223,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -179,7 +179,7 @@
       "pair": "AUD/USD",
       "buckets": {
         "03": {
-          "avg_range_pct": 0.3486,
+          "avg_range_pct": 0.3474,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -187,7 +187,7 @@
           ]
         },
         "07": {
-          "avg_range_pct": 0.2673,
+          "avg_range_pct": 0.263,
           "n_samples": 100,
           "sessions": [
             "Tokyo",
@@ -195,14 +195,14 @@
           ]
         },
         "11": {
-          "avg_range_pct": 0.2834,
+          "avg_range_pct": 0.2794,
           "n_samples": 100,
           "sessions": [
             "London"
           ]
         },
         "15": {
-          "avg_range_pct": 0.2879,
+          "avg_range_pct": 0.2881,
           "n_samples": 100,
           "sessions": [
             "London",
@@ -210,14 +210,14 @@
           ]
         },
         "19": {
-          "avg_range_pct": 0.3179,
+          "avg_range_pct": 0.3185,
           "n_samples": 100,
           "sessions": [
             "NewYork"
           ]
         },
         "23": {
-          "avg_range_pct": 0.3949,
+          "avg_range_pct": 0.3948,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -231,7 +231,7 @@
       "pair": "USD/CAD",
       "buckets": {
         "03": {
-          "avg_range_pct": 0.1816,
+          "avg_range_pct": 0.181,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -239,7 +239,7 @@
           ]
         },
         "07": {
-          "avg_range_pct": 0.1401,
+          "avg_range_pct": 0.1382,
           "n_samples": 100,
           "sessions": [
             "Tokyo",
@@ -247,7 +247,7 @@
           ]
         },
         "11": {
-          "avg_range_pct": 0.1181,
+          "avg_range_pct": 0.1173,
           "n_samples": 100,
           "sessions": [
             "London"
@@ -262,14 +262,14 @@
           ]
         },
         "19": {
-          "avg_range_pct": 0.1543,
+          "avg_range_pct": 0.154,
           "n_samples": 100,
           "sessions": [
             "NewYork"
           ]
         },
         "23": {
-          "avg_range_pct": 0.2293,
+          "avg_range_pct": 0.2294,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -283,7 +283,7 @@
       "pair": "USD/CHF",
       "buckets": {
         "03": {
-          "avg_range_pct": 0.2559,
+          "avg_range_pct": 0.2555,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -291,7 +291,7 @@
           ]
         },
         "07": {
-          "avg_range_pct": 0.2078,
+          "avg_range_pct": 0.2047,
           "n_samples": 100,
           "sessions": [
             "Tokyo",
@@ -299,14 +299,14 @@
           ]
         },
         "11": {
-          "avg_range_pct": 0.1506,
+          "avg_range_pct": 0.1503,
           "n_samples": 100,
           "sessions": [
             "London"
           ]
         },
         "15": {
-          "avg_range_pct": 0.2077,
+          "avg_range_pct": 0.2078,
           "n_samples": 100,
           "sessions": [
             "London",
@@ -314,14 +314,14 @@
           ]
         },
         "19": {
-          "avg_range_pct": 0.2446,
+          "avg_range_pct": 0.2417,
           "n_samples": 100,
           "sessions": [
             "NewYork"
           ]
         },
         "23": {
-          "avg_range_pct": 0.3031,
+          "avg_range_pct": 0.3021,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -335,7 +335,7 @@
       "pair": "NZD/USD",
       "buckets": {
         "03": {
-          "avg_range_pct": 2.2883,
+          "avg_range_pct": 2.2872,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -343,7 +343,7 @@
           ]
         },
         "07": {
-          "avg_range_pct": 0.2748,
+          "avg_range_pct": 0.2714,
           "n_samples": 100,
           "sessions": [
             "Tokyo",
@@ -358,7 +358,7 @@
           ]
         },
         "15": {
-          "avg_range_pct": 0.2648,
+          "avg_range_pct": 0.2666,
           "n_samples": 100,
           "sessions": [
             "London",
@@ -366,14 +366,14 @@
           ]
         },
         "19": {
-          "avg_range_pct": 0.2921,
+          "avg_range_pct": 0.292,
           "n_samples": 100,
           "sessions": [
             "NewYork"
           ]
         },
         "23": {
-          "avg_range_pct": 0.364,
+          "avg_range_pct": 0.3648,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -387,7 +387,7 @@
       "pair": "EUR/GBP",
       "buckets": {
         "03": {
-          "avg_range_pct": 0.1831,
+          "avg_range_pct": 0.1828,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -395,7 +395,7 @@
           ]
         },
         "07": {
-          "avg_range_pct": 0.1509,
+          "avg_range_pct": 0.1499,
           "n_samples": 100,
           "sessions": [
             "Tokyo",
@@ -403,14 +403,14 @@
           ]
         },
         "11": {
-          "avg_range_pct": 0.0799,
+          "avg_range_pct": 0.0797,
           "n_samples": 100,
           "sessions": [
             "London"
           ]
         },
         "15": {
-          "avg_range_pct": 0.1313,
+          "avg_range_pct": 0.1316,
           "n_samples": 100,
           "sessions": [
             "London",
@@ -418,14 +418,14 @@
           ]
         },
         "19": {
-          "avg_range_pct": 0.1612,
+          "avg_range_pct": 0.1605,
           "n_samples": 100,
           "sessions": [
             "NewYork"
           ]
         },
         "23": {
-          "avg_range_pct": 0.2126,
+          "avg_range_pct": 0.2122,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -439,7 +439,7 @@
       "pair": "EUR/JPY",
       "buckets": {
         "03": {
-          "avg_range_pct": 0.2012,
+          "avg_range_pct": 0.1995,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -447,7 +447,7 @@
           ]
         },
         "07": {
-          "avg_range_pct": 0.1679,
+          "avg_range_pct": 0.1667,
           "n_samples": 100,
           "sessions": [
             "Tokyo",
@@ -455,59 +455,7 @@
           ]
         },
         "11": {
-          "avg_range_pct": 0.1624,
-          "n_samples": 100,
-          "sessions": [
-            "London"
-          ]
-        },
-        "15": {
-          "avg_range_pct": 0.2132,
-          "n_samples": 100,
-          "sessions": [
-            "London",
-            "NewYork"
-          ]
-        },
-        "19": {
-          "avg_range_pct": 0.2047,
-          "n_samples": 100,
-          "sessions": [
-            "NewYork"
-          ]
-        },
-        "23": {
-          "avg_range_pct": 0.2102,
-          "n_samples": 100,
-          "sessions": [
-            "Sydney",
-            "Tokyo"
-          ]
-        }
-      },
-      "n_bars": 600
-    },
-    "GBP/JPY": {
-      "pair": "GBP/JPY",
-      "buckets": {
-        "03": {
-          "avg_range_pct": 0.2292,
-          "n_samples": 100,
-          "sessions": [
-            "Sydney",
-            "Tokyo"
-          ]
-        },
-        "07": {
-          "avg_range_pct": 0.1722,
-          "n_samples": 100,
-          "sessions": [
-            "Tokyo",
-            "London"
-          ]
-        },
-        "11": {
-          "avg_range_pct": 0.1717,
+          "avg_range_pct": 0.1608,
           "n_samples": 100,
           "sessions": [
             "London"
@@ -522,6 +470,58 @@
           ]
         },
         "19": {
+          "avg_range_pct": 0.2048,
+          "n_samples": 100,
+          "sessions": [
+            "NewYork"
+          ]
+        },
+        "23": {
+          "avg_range_pct": 0.2085,
+          "n_samples": 100,
+          "sessions": [
+            "Sydney",
+            "Tokyo"
+          ]
+        }
+      },
+      "n_bars": 600
+    },
+    "GBP/JPY": {
+      "pair": "GBP/JPY",
+      "buckets": {
+        "03": {
+          "avg_range_pct": 0.2272,
+          "n_samples": 100,
+          "sessions": [
+            "Sydney",
+            "Tokyo"
+          ]
+        },
+        "07": {
+          "avg_range_pct": 0.1704,
+          "n_samples": 100,
+          "sessions": [
+            "Tokyo",
+            "London"
+          ]
+        },
+        "11": {
+          "avg_range_pct": 0.1696,
+          "n_samples": 100,
+          "sessions": [
+            "London"
+          ]
+        },
+        "15": {
+          "avg_range_pct": 0.2154,
+          "n_samples": 100,
+          "sessions": [
+            "London",
+            "NewYork"
+          ]
+        },
+        "19": {
           "avg_range_pct": 0.2132,
           "n_samples": 100,
           "sessions": [
@@ -529,7 +529,7 @@
           ]
         },
         "23": {
-          "avg_range_pct": 0.2519,
+          "avg_range_pct": 0.2498,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -543,7 +543,7 @@
       "pair": "XAU/USD",
       "buckets": {
         "03": {
-          "avg_range_pct": 0.6301,
+          "avg_range_pct": 0.6263,
           "n_samples": 100,
           "sessions": [
             "Sydney",
@@ -551,7 +551,7 @@
           ]
         },
         "07": {
-          "avg_range_pct": 0.7197,
+          "avg_range_pct": 0.7133,
           "n_samples": 100,
           "sessions": [
             "Tokyo",
@@ -559,14 +559,14 @@
           ]
         },
         "11": {
-          "avg_range_pct": 0.7367,
+          "avg_range_pct": 0.7334,
           "n_samples": 100,
           "sessions": [
             "London"
           ]
         },
         "15": {
-          "avg_range_pct": 0.7051,
+          "avg_range_pct": 0.7038,
           "n_samples": 100,
           "sessions": [
             "London",
@@ -574,14 +574,14 @@
           ]
         },
         "19": {
-          "avg_range_pct": 0.7054,
+          "avg_range_pct": 0.7036,
           "n_samples": 100,
           "sessions": [
             "NewYork"
           ]
         },
         "23": {
-          "avg_range_pct": 0.9925,
+          "avg_range_pct": 0.9891,
           "n_samples": 100,
           "sessions": [
             "Sydney",
