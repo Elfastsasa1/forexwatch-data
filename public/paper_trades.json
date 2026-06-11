@@ -194,5 +194,28 @@
     "exit_price": 0.86423,
     "pnl_r": 0.206,
     "bars_held": 20
+  },
+  {
+    "pair": "USD/JPY",
+    "direction": "LONG",
+    "entry": 160.53381,
+    "sl": 160.27126,
+    "tp": 160.92763,
+    "atr": 0.13127,
+    "rr": 1.5,
+    "regime": "rich_multi",
+    "decay": 0.4268,
+    "h_2_hurst": 0.3756,
+    "session": "London-NY overlap",
+    "score": 91.1,
+    "score_breakdown": {
+      "regime": 50,
+      "strength": 21.1,
+      "session": 20
+    },
+    "strength_note": "USD+3.8 vs JPY-3.3 = +7.0",
+    "ts": 1781186502,
+    "ts_iso": "2026-06-11T14:01:42Z",
+    "status": "OPEN"
   }
 ]
