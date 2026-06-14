@@ -267,6 +267,11 @@
     "strength_note": "USD+0.9 vs JPY-8.9 = +9.7",
     "ts": 1781274601,
     "ts_iso": "2026-06-12T14:30:01Z",
-    "status": "OPEN"
+    "status": "CLOSED",
+    "outcome": "LOSS",
+    "exit_ts": 1781463600,
+    "exit_price": 159.74423,
+    "pnl_r": -1.0,
+    "bars_held": 14
   }
 ]
