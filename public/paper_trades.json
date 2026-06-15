@@ -273,5 +273,28 @@
     "exit_price": 159.74423,
     "pnl_r": -1.0,
     "bars_held": 14
+  },
+  {
+    "pair": "USD/JPY",
+    "direction": "SHORT",
+    "entry": 159.97289,
+    "sl": 160.51492,
+    "tp": 159.15985,
+    "atr": 0.27101,
+    "rr": 1.5,
+    "regime": "rich_multi",
+    "decay": 0.4211,
+    "h_2_hurst": 0.3789,
+    "session": "off-session",
+    "score": 65.0,
+    "score_breakdown": {
+      "regime": 50,
+      "strength": 15.0,
+      "session": 0
+    },
+    "strength_note": "USD-5.2 vs JPY-0.2 = -5.0",
+    "ts": 1781483403,
+    "ts_iso": "2026-06-15T00:30:03Z",
+    "status": "OPEN"
   }
 ]
