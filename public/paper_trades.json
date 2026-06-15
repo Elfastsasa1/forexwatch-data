@@ -244,7 +244,12 @@
     "strength_note": "EUR+3.5 vs GBP+10.0 = -6.5",
     "ts": 1781247602,
     "ts_iso": "2026-06-12T07:00:02Z",
-    "status": "OPEN"
+    "status": "CLOSED",
+    "outcome": "TIMEOUT",
+    "exit_ts": 1781535600,
+    "exit_price": 0.86393,
+    "pnl_r": -0.594,
+    "bars_held": 20
   },
   {
     "pair": "USD/JPY",
