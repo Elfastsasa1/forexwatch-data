@@ -301,5 +301,28 @@
     "ts": 1781483403,
     "ts_iso": "2026-06-15T00:30:03Z",
     "status": "OPEN"
+  },
+  {
+    "pair": "EUR/GBP",
+    "direction": "LONG",
+    "entry": 0.86392,
+    "sl": 0.86125,
+    "tp": 0.86793,
+    "atr": 0.00134,
+    "rr": 1.5,
+    "regime": "multi",
+    "decay": 0.3557,
+    "h_2_hurst": 0.4132,
+    "session": "NewYork",
+    "score": 65.6,
+    "score_breakdown": {
+      "regime": 30,
+      "strength": 15.6,
+      "session": 20
+    },
+    "strength_note": "EUR+6.1 vs GBP+0.9 = +5.2",
+    "ts": 1781555403,
+    "ts_iso": "2026-06-15T20:30:03Z",
+    "status": "OPEN"
   }
 ]
