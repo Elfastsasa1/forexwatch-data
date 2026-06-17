@@ -300,7 +300,12 @@
     "strength_note": "USD-5.2 vs JPY-0.2 = -5.0",
     "ts": 1781483403,
     "ts_iso": "2026-06-15T00:30:03Z",
-    "status": "OPEN"
+    "status": "CLOSED",
+    "outcome": "LOSS",
+    "exit_ts": 1781751600,
+    "exit_price": 160.51492,
+    "pnl_r": -1.0,
+    "bars_held": 19
   },
   {
     "pair": "EUR/GBP",
