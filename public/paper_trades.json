@@ -328,7 +328,12 @@
     "strength_note": "EUR+6.1 vs GBP+0.9 = +5.2",
     "ts": 1781555403,
     "ts_iso": "2026-06-15T20:30:03Z",
-    "status": "OPEN"
+    "status": "CLOSED",
+    "outcome": "WIN",
+    "exit_ts": 1781838000,
+    "exit_price": 0.86793,
+    "pnl_r": 1.502,
+    "bars_held": 20
   },
   {
     "pair": "USD/JPY",
@@ -351,7 +356,12 @@
     "strength_note": "USD-0.7 vs JPY-6.0 = +5.3",
     "ts": 1781598602,
     "ts_iso": "2026-06-16T08:30:02Z",
-    "status": "OPEN"
+    "status": "CLOSED",
+    "outcome": "WIN",
+    "exit_ts": 1781823600,
+    "exit_price": 161.30698,
+    "pnl_r": 1.5,
+    "bars_held": 16
   },
   {
     "pair": "EUR/GBP",
@@ -397,6 +407,11 @@
     "strength_note": "USD+7.5 vs JPY+1.8 = +5.7",
     "ts": 1781785802,
     "ts_iso": "2026-06-18T12:30:02Z",
-    "status": "OPEN"
+    "status": "CLOSED",
+    "outcome": "WIN",
+    "exit_ts": 1781838000,
+    "exit_price": 161.5302,
+    "pnl_r": 1.5,
+    "bars_held": 4
   }
 ]
