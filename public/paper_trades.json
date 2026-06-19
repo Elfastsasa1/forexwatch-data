@@ -436,5 +436,28 @@
     "ts": 1781814602,
     "ts_iso": "2026-06-18T20:30:02Z",
     "status": "OPEN"
+  },
+  {
+    "pair": "USD/JPY",
+    "direction": "LONG",
+    "entry": 161.26187,
+    "sl": 160.63738,
+    "tp": 162.19861,
+    "atr": 0.31225,
+    "rr": 1.5,
+    "regime": "rich_multi",
+    "decay": 0.5044,
+    "h_2_hurst": 0.3494,
+    "session": "London-NY overlap",
+    "score": 88.2,
+    "score_breakdown": {
+      "regime": 50,
+      "strength": 18.2,
+      "session": 20
+    },
+    "strength_note": "USD+7.4 vs JPY+1.4 = +6.1",
+    "ts": 1781872202,
+    "ts_iso": "2026-06-19T12:30:02Z",
+    "status": "OPEN"
   }
 ]
