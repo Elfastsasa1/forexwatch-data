@@ -2,7 +2,7 @@
   "meta": {
     "service": "fxwatch",
     "version": "0.1.0",
-    "computed_at": 1781913902,
+    "computed_at": 1781914202,
     "pairs": [
       "EUR/USD",
       "GBP/USD",
@@ -22,7 +22,7 @@
     ]
   },
   "regime": {
-    "computed_at": 1781913902,
+    "computed_at": 1781914202,
     "pairs": {
       "EUR/USD": {
         "1day": {
@@ -489,57 +489,57 @@
     }
   },
   "currency_strength": {
-    "computed_at": 1781912102,
+    "computed_at": 1781913902,
     "timeframe": "4h",
     "lookback_bars": 24,
     "raw_pct": {
-      "USD": 1.1367,
-      "EUR": -0.3428,
-      "GBP": -0.8147,
-      "JPY": 0.193,
-      "AUD": -0.8316,
-      "CAD": -1.3087,
-      "CHF": -1.5112,
-      "NZD": -1.4119
+      "USD": 1.1617,
+      "EUR": -0.3239,
+      "GBP": -0.7967,
+      "JPY": 0.109,
+      "AUD": -0.857,
+      "CAD": -1.1927,
+      "CHF": -1.5872,
+      "NZD": -1.4601
     },
     "score": {
-      "USD": 7.52,
-      "EUR": -2.27,
-      "GBP": -5.39,
-      "JPY": 1.28,
-      "AUD": -5.5,
-      "CAD": -8.66,
+      "USD": 7.32,
+      "EUR": -2.04,
+      "GBP": -5.02,
+      "JPY": 0.69,
+      "AUD": -5.4,
+      "CAD": -7.51,
       "CHF": -10.0,
-      "NZD": -9.34
+      "NZD": -9.2
     },
     "ranked": [
       [
         "USD",
-        7.52
+        7.32
       ],
       [
         "JPY",
-        1.28
+        0.69
       ],
       [
         "EUR",
-        -2.27
+        -2.04
       ],
       [
         "GBP",
-        -5.39
+        -5.02
       ],
       [
         "AUD",
-        -5.5
+        -5.4
       ],
       [
         "CAD",
-        -8.66
+        -7.51
       ],
       [
         "NZD",
-        -9.34
+        -9.2
       ],
       [
         "CHF",
